@@ -5,7 +5,7 @@
 	"description": "Excel (XLSB/XLSX/XLS/XML) ODS and other spreadsheet format (CSV/DIF/DBF/SYLK) parser and writer",
 	"keywords": [ "excel", "xls", "xlsx", "xlsb", "xlsm", "ods", "csv", "dbf", "dif", "sylk", "office", "spreadsheet" ],
 	"bin": {
-		"xlsx-reader": "./bin/xlsx-reader"
+		"xlsx-reader": "./xlsx-reader"
 	},
 	"main": "./xlsx-reader",
 	"types": "types",
